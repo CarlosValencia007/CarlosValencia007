@@ -8,7 +8,7 @@ Conecto interfaces, lógica y datos para convertir ideas en soluciones tecnológ
 
 **Manta, Ecuador** · **ULEAM** · **7.º semestre**
 
-[LinkedIn](https://www.linkedin.com/in/carlos-valencia-788a65312/) &nbsp; · &nbsp; [Mi portafolio](https://github.com/CarlosValencia007/Portafolio) &nbsp; · &nbsp; [Proyectos](#proyectos-destacados)
+[LinkedIn](https://www.linkedin.com/in/carlos-valencia-788a65312/) &nbsp; · &nbsp; [Mi portafolio](https://portafolio-seven-theta-51.vercel.app/) &nbsp; · &nbsp; [Código](https://github.com/CarlosValencia007/Portafolio) &nbsp; · &nbsp; [Proyectos](#proyectos-destacados)
 
 </div>
 
@@ -132,7 +132,7 @@ Plataforma para gestión y reserva de eventos, que conecta una experiencia web c
 
 **¿Conectamos?**
 
-[LinkedIn](https://www.linkedin.com/in/carlos-valencia-788a65312/) &nbsp; · &nbsp; [Código de mi portafolio](https://github.com/CarlosValencia007/Portafolio)
+[Mi portafolio](https://portafolio-seven-theta-51.vercel.app/) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/carlos-valencia-788a65312/) &nbsp; · &nbsp; [Código de mi portafolio](https://github.com/CarlosValencia007/Portafolio)
 
 <sub>Iconos de tecnologías: <a href="https://github.com/devicons/devicon">Devicon</a> · <a href="assets/icons/LICENSE">Licencia MIT</a>.</sub>
 
