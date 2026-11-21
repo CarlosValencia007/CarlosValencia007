@@ -4,6 +4,8 @@ Estudiante de **Ingeniería de Software** en la Universidad Laica Eloy Alfaro de
 
 Me apasiona transformar ideas en soluciones tecnológicas. Mi enfoque es el **desarrollo full stack**, conectando interfaces, lógica de negocio y datos. Me interesa explorar cómo integrar la **inteligencia artificial y la automatización** en aplicaciones útiles.
 
+[Código de mi portafolio](https://github.com/CarlosValencia007/Portafolio) · [LinkedIn](https://www.linkedin.com/in/carlos-valencia-788a65312/)
+
 ## Tecnologías
 
 - **Frontend:** TypeScript, Angular, React y Vue.
